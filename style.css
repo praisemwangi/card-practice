@@ -1,0 +1,137 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-shadow: none;
+  }
+  
+  body {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  
+  .cards {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 70%;
+  }
+  
+  .card1 {
+    background-color: hsl(31, 77%, 52%);
+    width: 260px;
+   
+    height: 400px;
+    padding: 45px;
+  }
+  
+  .card1 img {
+    width: auto;
+    height: auto;
+  }
+  
+  .card1 h2 {
+    color: hsl(0, 0%, 95%);
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  
+  .card1 p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 20px;
+    line-height: 35px;
+    margin-top: 20px;
+  }
+  
+  .card1 button {
+    margin-top: 40px;
+    
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 25px;
+    box-sizing: border-box;
+  }
+  .card2 {
+    width: 260px;
+    background-color: hsl(184, 100%, 22%);
+   
+    height: 400px;
+    padding: 45px;
+  }
+  
+  .card2 img {
+    width: auto;
+    height: auto;
+  }
+  
+  .card2 h2 {
+    color: hsl(0, 0%, 95%);
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  
+  .card2 p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 35px;
+   
+  }
+  
+  .card2 button {
+    margin-top: 40px;
+   
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 25px;
+    box-sizing: border-box;
+  }
+  
+  
+  .card3 {
+    width: 260px;
+    background-color: hsl(179, 100%, 13%);
+    height: 400px;
+    padding: 45px;
+  }
+  
+  .card3 img {
+    width: auto;
+    height: auto;
+  }
+  
+  .card3 h2 {
+    color: hsl(0, 0%, 95%);
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  
+  .card3 p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 20px;
+    line-height: 35px;
+    margin-top: 20px;
+    
+  }
+  
+  .card3 button {
+    margin-top: 40px;
+   
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 25px;
+    box-sizing: border-box;
+  }
+  
